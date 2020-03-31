@@ -145,7 +145,7 @@ options
 ```
 | Property    | Type       | Description                                    |
 | ----------- | ---------- | ------------------------------------------------ |
-| `taskName`  | `<string>` | Task name for identification.                     |
+| `taskName`  | `<string>` | **Android Required**. Task name for identification.                     |
 | `taskTitle` | `<string>` |  **Android Required**. Notification title.       |
 | `taskDesc`  | `<string>` | **Android Required**. Notification description. |
 | `taskIcon`  | [`<taskIconOptions>`](#taskIconOptions) | **Android Required**. Notification icon. |
